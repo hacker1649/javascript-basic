@@ -20,8 +20,7 @@ This repository contains a collection of basic projects built with vanilla JavaS
 To get started with these projects, simply clone the repository and open the respective HTML files in your browser.
 
 ```
-git clone https://github.com/your-username/basic-js-projects.git
-cd basic-js-projects
-Project Details
+git clone https://github.com/hacker1649/javascript-basic.git
+cd javascript-basic
 ```
 
